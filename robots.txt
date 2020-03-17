@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oeleeshaca.haskell.od.ua/sitemap.xml
